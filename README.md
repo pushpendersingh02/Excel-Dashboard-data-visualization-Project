@@ -32,5 +32,5 @@ Communication: Presenting findings in a clear and concise manner through the sal
 Problem-Solving: Identifying the lack of customer and sales data and proposing a solution through the dashboard and recommendations.
 Stakeholder Management: Delivering valuable insights to Vrinda Clothing Store management to enable informed decision-making.
 
-7. Conclusion
+8. Conclusion
 The Excel dashboard provides Vrinda Clothing Store with valuable customer insights to optimize marketing efforts and drive sales growth. Implementing the recommended targeted promotions has the potential to significantly increase customer engagement and revenue, particularly during peak sales months.
