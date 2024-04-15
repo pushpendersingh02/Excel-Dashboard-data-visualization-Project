@@ -3,7 +3,6 @@
 
 **Vrinda Clothing Store - Sales Analysis & Customer Targeting Dashboard**
 1. Introduction:
-
 Vrinda Clothing Store is looking to improve its sales and customer engagement. This business analysis project aimed to identify key customer trends and recommend data-driven strategies to optimize marketing efforts.
 
 3. Problem Statement
