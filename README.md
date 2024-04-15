@@ -27,7 +27,6 @@ Based on the findings, the following recommendations are proposed:
 
 6. Business Analysis Competencies Utilized
 This project demonstrates the application of several core business analysis competencies:
-
 Data Analysis: Transforming raw sales data into actionable insights.
 Communication: Presenting findings in a clear and concise manner through the sales dashboard.
 Problem-Solving: Identifying the lack of customer and sales data and proposing a solution through the dashboard and recommendations.
